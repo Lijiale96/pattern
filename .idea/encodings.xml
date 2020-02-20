@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://D:/Hexo/themes/yilia/layout/_partial/after-footer.ejs" charset="UTF-8" />
+    <file url="file://D:/Hexo/themes/yilia/layout/_partial/footer.ejs" charset="UTF-8" />
+    <file url="file://D:/Hexo/themes/yilia/source/main.0cf68a.css" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>
